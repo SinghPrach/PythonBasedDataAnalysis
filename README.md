@@ -6,13 +6,22 @@ Following data analysis projects based on python, are present in this repository
 3. Covid-19 Impacts Analysis using Python
 4. Ukraine Russia War Twitter Sentiment Analysis using Python
 5. Waiter Tips Prediction with Machine Learning
-6. TikTok Reviews Sentiment Analysis using Python  
-TikTok is one of the most famous social media apps today, known for its short videos with the purpose of entertaining. 
-Though, people have a mix opinion for this app, which could be seen in its App' reviews.
-Through this project, I analyzed the TikTok reviews data to find out what people feel about the content of this app. 
+6.  Stock Price Prediction with Machine Learning 
 7. Flipkart Reviews Sentiment Analysis using Python   
-Flipkart, an Indian company is an e-commerce platform. Here, we will do the sentiment analysis of product reviews sold on e-commerce platforms, like Flipkart.
-8. Uber Trips Analysis using Python   
-Uber is one of the major source of travel for people living in urban areas. People use Uber according to their needs.
-Using this analysis, we can draw many important patterns like which day has the highest and the lowest trips or the busiest hour for Uber.
-And similarly many other patterns. The dataset used here is based on Uber trips from New York.
+8. Google Stock Price Prediction with Machine Learning  
+9. Algorithmic Trading Strategy with Machine Learning and Python
+10. Bitcoin Price Prediction with Machine Learning 
+11. Amazon Product Reviews Sentiment Analysis with Machine Learning
+12. Email spam Detection with Machine Learning
+13. FIFA Analysis with Data Science
+14. Movie Recommendation System with Machine Learning
+15. Heart Disease Prediction with Machine Learning
+16. Predict Customer Churn with Python and Machine Learning
+17. GDP Analysis with Data Science  
+18. Covid-19 Analysis on a Map with Python
+19. Uber Trips Analysis using Python 
+20. IPL Exploratory Data Analysis
+21. Credit Card Fraud Detection with Machine Learning
+22. TikTok Reviews Sentiment Analysis using Python 
+23. Predict Diabetes with Machine Learning
+24. Web Scraping to Create CSV
