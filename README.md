@@ -1,7 +1,7 @@
 # PythonBasedDataAnalysis
 
 Following data analysis projects based on python, are present in this repository:
-1. Smartwatch data analysis
+1. Smartwatch data analysis using Python
 2. Instagram Reach Analysis using Python
 3. Covid-19 Impacts Analysis using Python
 4. Ukraine Russia War Twitter Sentiment Analysis using Python
