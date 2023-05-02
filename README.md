@@ -13,11 +13,11 @@ Following data analysis projects based on python, are present in this repository
 10. Bitcoin Price Prediction with Machine Learning 
 11. Amazon Product Reviews Sentiment Analysis with Machine Learning
 12. Email spam Detection with Machine Learning --Done
-13. FIFA Analysis with Data Science -- Done
+13. FIFA Analysis with Python -- Done
 14. Movie Recommendation System with Machine Learning
 15. Heart Disease Prediction with Machine Learning
 16. Predict Customer Churn with Python and Machine Learning
-17. GDP Analysis with Data Science-- 2 May  
+17. GDP Analysis with Python-- Done  
 18. Diamonds Analysis with Python-- 3 May
 19. Uber Trips Analysis using Python --Done
 20. IPL Exploratory Data Analysis-- 3 May
