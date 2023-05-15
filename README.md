@@ -18,7 +18,7 @@ Following data analysis projects based on python, are present in this repository
 15. Heart Disease Prediction with Machine Learning
 16. Predict Customer Churn with Python and Machine Learning
 17. GDP Analysis with Python-- Done  
-18. Diamonds Analysis with Python-- 3 May
+18. Diamonds Analysis with Python-- Done
 19. Uber Trips Analysis using Python --Done
 20. IPL Exploratory Data Analysis-- 3 May
 21. Credit Card Fraud Detection with Machine Learning
