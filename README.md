@@ -20,14 +20,8 @@ Following data analysis projects based on python, are present in this repository
 17. GDP Analysis with Python-- Done  
 18. Diamonds Analysis with Python-- Done
 19. Uber Trips Analysis using Python --Done
-20. IPL Exploratory Data Analysis-- 3 May
+20. IPL Exploratory Data Analysis-- Done
 21. Credit Card Fraud Detection with Machine Learning
 22. TikTok Reviews Sentiment Analysis using Python --Done 
 23. Predict Diabetes with Machine Learning
 24. RFM(Recency, Frequency, in Money) Analysis with Python-- 3 May
-25. 
-26. 
-27. 
-28. 
-29. 
-30. 
