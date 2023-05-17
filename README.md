@@ -24,4 +24,3 @@ Following data analysis projects based on python, are present in this repository
 21. Credit Card Fraud Detection with Machine Learning
 22. TikTok Reviews Sentiment Analysis using Python --Done 
 23. Predict Diabetes with Machine Learning
-24. RFM(Recency, Frequency, in Money) Analysis with Python-- 3 May
